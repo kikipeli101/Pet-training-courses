@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: url(doggy.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: #fff;
+    height: 100vh;
+    padding: 80px;
+  }
+
+.div-a h1{
+    font-size: 96px;
+    font-family:montserrat, sans-serif;
+    color:  #ecd313;
+  }
+
+h3{
+    font-size: 30px;
+    font-family:'Oswald', sans-serif;
+    margin: -7px 0px 0px;
+    color: #e4d2c0;
+    }
+
+.div-a p{
+    font-size: 18px;
+    margin: 25px 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.div-b{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 12px 213px 0px 0px;
+    color: #fcfaf7;;
+}
+
+button {
+    width: 200px;
+    height: 45px;
+    padding: 10px 52px  10px 51px;
+    margin: 32px 272.141px 0px 0px;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+    color: #cf993a;
+}
+
+.footer {
+    background-color: #333;
+    height: 30vh;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.div-d{
+    background-color: #333;
+    color: white;
+   text-align: center;
+   padding: 16px;
+}
+
+
+
+
